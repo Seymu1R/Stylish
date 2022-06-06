@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-image: url(images/bg-masthead.jpg); 
+    background-position: center;     
+    text-align: center;
+    padding: 180px 0 330px 0;
+    background-size: cover;  
+    
+   
+}
+.header h1{
+    margin-top: 100px;    
+    color: #212529;
+    font-weight: 700;
+    font-size: 5.5rem;    
+}
+.header h3{
+    font-size: 26.83px;
+    font-style: italic;
+    color: #212529;
+    margin-bottom: 60px;
+    font-weight: bolder;
+    font-weight: 700;
+    line-height: 1.2;
+    box-sizing: border-box;
+}
+.header a{
+    background-color: #1D809F;
+    padding: 20px 40px;
+    color: white;
+    text-decoration: none;
+    transition: .5s all;
+    border-radius: 2px;  
+    
+    
+}
+a:hover{
+    background-color: #0f617bf1;
+}
+.body .First{
+    background-color: white;
+    padding: 120px 7.5rem;
+    text-align: center;
+
+}
+.body .First h2{
+    font-size: calc(1.325rem + 0.9vw);
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+.body .First p{
+    font-size: 1.25rem;
+    font-weight: 300;
+    color: #212529c9;
+    margin-bottom: 70px;
+}
+.body .First .bodybuttom{
+    padding: 1.25rem 2.5rem;
+    color: white;
+    text-decoration: none;
+    background-color: #212529;
+    border-color: #212529;
+    border-radius: 2px;
+    border: 1px solid transparent;
+}
+.Second{
+    
+    background-color: #1D809f;
+    padding: 7.5rem 7.5rem;
+    
+
+}
+.Second h3{
+    color: #EcB807;
+    font-size: 16px;
+    text-align: center;
+}
+.Second h1{
+    color: white;
+    font-size: 48px;
+    margin-bottom: 48px;
+    text-align: center;
+}
+.Second .SecondContainer .Right{
+    
+    display: inline;
+    margin: 0 160px 0 29px ;  
+    text-align: center;
+    
+}
+.Second .SecondContainer .Right1{
+    
+    display: inline;
+    margin: 0 160px 0 0 ;
+    
+}
+.Second .SecondContainer .Left1{
+    
+    display: inline;
+    margin: 0 160px 0 0 ;
+    
+}.Second .SecondContainer .Left{
+    
+    display: inline;
+    margin: 0 200px 0 0 ;
+    
+}
+.Second .SecondContainer .Right img{
+    
+   margin-bottom: 20px;  
+    
+    
+}
+.Second .SecondContainer .Right1 img{
+    
+    margin-bottom: 20px;
+    
+}
+.Second .SecondContainer .Left1 img{
+    
+    margin-bottom: 20px;
+    
+}
+.Second .SecondContainer .Left img{
+    
+    margin-bottom: 20px;
+    
+}
+.image1{
+    width: 94%
+}
+.Third{
+   background-image: url(images/BodyThirdImage.jpg);
+   background-position: center;     
+   text-align: center;
+   background-size: cover; 
+   padding: 15rem 0;
+
+}
+.Third h1{
+    font-size: 56px;
+    margin-bottom: 48px;
+}
+.Third a{
+    text-decoration: none;
+    color: white;
+    padding: 20px 40px;
+    background-color: #1D809F;
+    border-radius: 5px;
+    transition: .5 all;
+}
+a:hover{
+    background-color: #19708b;
+}
+.Fourth{
+    text-align: center;
+    padding: 120px 0;
+}
+.Fourth p{
+    color: #EcB807;
+}
+.Fourth h1{
+    font-size: 48px;
+    margin-bottom: 48px;
+}
+.Fourth img{
+    width: 80%;
+}
+.Fifth{
+    background-color: #1D809f;
+    text-align: center;
+    padding: 120px;
+}
+.Fifth h2{
+    font-size: 28.1px;
+    color: white;
+    margin-bottom: 40px;
+}
+.Fifth-a1, .Fifth-a2{
+    padding: 20px 40px;
+   
+}
+.Fifth-a1{
+    background-color: white;
+    margin-right: 24px;
+    color: #212529;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    user-select: none;
+    border: 2px solid transparent;
+
+}
+.Fifth-a2{
+    background-color: #212529;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 2px solid transparent;
+    
+}
+.Fifth-a1:hover{
+    background-color: white;
+}
+.Fifth-a2:hover{
+    background-color: #212529;
+}
+.Sixth{
+    text-align: center;
+    
+    
+}
+.Sixth img{
+   border: 0;
+   width: 100%;
+   height: 100%;  
+}
+.footer{
+    text-align: center;
+    padding: 80px 0;
+}
+.footer p{
+    margin-top: 80px;
+    color: #6C757D;
+}
+
+
